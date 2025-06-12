@@ -1,1 +1,0 @@
-web: java -jar target/demo0611-1.0-SNAP.jar
